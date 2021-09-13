@@ -20,7 +20,3 @@ You will open the e2e folder, then run following commands to get started
 npm install
 npm test
 ```
-
-### Helpful links
-
-[React Material UI](https://material-ui.com/getting-started/usage/)

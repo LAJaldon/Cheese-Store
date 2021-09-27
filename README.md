@@ -20,8 +20,3 @@ You will open the e2e folder, then run following commands to get started
 npm install
 npm test
 ```
-
-### What I would have done if I had more time
-1. Add the total cost in the recent purchases drawer
-2. Add the items purchased for each transaction instead of just showing all recent purchases
-3. Store all the purchased items json data in a purchases.json file similar to the cheeses.json file 
